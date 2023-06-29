@@ -1,0 +1,121 @@
+{
+  "project_info": {
+    "project_number": "347976626509",
+    "project_id": "complaint-raiser",
+    "storage_bucket": "complaint-raiser.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347976626509:android:2b47e2361b929f8f590704",
+        "android_client_info": {
+          "package_name": "com.nova.complaint_raiser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347976626509-rg666snkupcrojf0b1ua875tu6q2j21s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nova.complaint_raiser",
+            "certificate_hash": "7bddbb75e74e7fe5b81f0b03fe039ff438434bac"
+          }
+        },
+        {
+          "client_id": "347976626509-jurtmjlmq498faiarohmorrp4vdohns7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIxwlbop5gxZ6rnRpzeGDTVcoHcTiOAcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347976626509-8dhv1ss0qqr5p5im7maljoofj5a9eg2j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347976626509:android:b14f394ea1b5f8aa590704",
+        "android_client_info": {
+          "package_name": "com.nova.complaint_raiser_corp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347976626509-uu4tq61fso6lqlsgvcchmhbl8sc0mhe1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nova.complaint_raiser_corp",
+            "certificate_hash": "3174e824ed10a7ed8a9776ca7c12af18217d10f7"
+          }
+        },
+        {
+          "client_id": "347976626509-jurtmjlmq498faiarohmorrp4vdohns7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIxwlbop5gxZ6rnRpzeGDTVcoHcTiOAcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347976626509-8dhv1ss0qqr5p5im7maljoofj5a9eg2j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347976626509:android:8025628ce89337db590704",
+        "android_client_info": {
+          "package_name": "com.nova.complaint_raiser_official"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347976626509-p5jpl0ts63l3uptp8sg3mihsu95obiln.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nova.complaint_raiser_official",
+            "certificate_hash": "3174e824ed10a7ed8a9776ca7c12af18217d10f7"
+          }
+        },
+        {
+          "client_id": "347976626509-jurtmjlmq498faiarohmorrp4vdohns7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIxwlbop5gxZ6rnRpzeGDTVcoHcTiOAcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347976626509-8dhv1ss0qqr5p5im7maljoofj5a9eg2j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
